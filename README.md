@@ -16,4 +16,4 @@ Simply push header names to a 'names'vector ,change zapytanie to your query and 
 > |DATA  |DATA  |DATA  |DATA  |</n>
 > +-------+------+-----+------+</n>
 </pre>
-![screenshot](https://user-images.githubusercontent.com/107147908/216790322-e9e0a6bf-dd1c-43a8-9a1a-6b89a46ee15f.png)
+![image](https://user-images.githubusercontent.com/107147908/216790385-6fcd29fe-f0ce-4b27-aa91-d560f2ef6c9e.png)

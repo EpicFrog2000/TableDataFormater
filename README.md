@@ -1,5 +1,9 @@
 # TableDataFormater
-Formats data from sql query into nice table form
+Formats data from sql query into nice table form.
+<hr>
+Can specify sql query, table headers and showed data in table
+Simply push header names to a 'names'vector ,change zapytanie to your query and change mysql connection parameters
+<hr>
 # Outpus should look like this:
 <pre>
 > +------+------+------+------+</n>
